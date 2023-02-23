@@ -168,7 +168,7 @@ img {
 	color: #FFF; 
 	margin: 0 auto; 
 	padding: 0; 
-	width: 70%; 
+	width: 80%; 
 	/*width: 766px;*/
 	background: #726f6f;
 }
@@ -179,7 +179,7 @@ hr { background: #3C3C3C; border: 1px solid #555; margin: 10px 0 10px 0;}
 	clear: both; 
 	font-size: 95%; 
 	float:right; 
-	width: 200px; 
+	width: 30%; 
 	padding: 15px 1em 1em 10px; 
 	border-left: 1px solid #555; 
 }
@@ -195,7 +195,7 @@ hr { background: #3C3C3C; border: 1px solid #555; margin: 10px 0 10px 0;}
 	
 .center { 
 	float:left; 
-	width: 500px; 
+	width: 65%; 
 	font-size: 95%; 
 	margin: 15px 0 5px 5px; 
 	padding: 0; 
